@@ -1,16 +1,7 @@
-opencv-python
+streamlit
+opencv-python-headless
 mediapipe
-deepface
 numpy
-tensorflow
-
-'''pip install --upgrade pip
-
-pip install \
-  mediapipe==0.10.14 \
-  opencv-python \
-  deepface==0.0.93 \
-  tensorflow==2.15.1 \
-  tf-keras==2.15.0 \
-  numpy==1.26.4
- '''
+pandas
+scikit-learn
+joblib
